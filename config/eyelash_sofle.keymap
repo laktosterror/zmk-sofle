@@ -69,7 +69,7 @@
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
-            label = "LAYER0";
+            label = "Base";
         };
 
         layer_1 {
@@ -82,7 +82,7 @@
             >;
 
             sensor-bindings = <&scroll_encoder>;
-            label = "LAYER1";
+            label = "Alt";
         };
 
         layer_2 {
@@ -94,7 +94,7 @@
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans          &trans             &kp C_PLAY_PAUSE  &trans           &trans
             >;
 
-            label = "LAYER2";
+            label = "Func";
         };
 
         layer_3 {
@@ -107,7 +107,7 @@
             >;
 
             sensor-bindings = <&scroll_encoder>;
-            label = "LAYER3";
+            label = "BT";
         };
     };
 };
