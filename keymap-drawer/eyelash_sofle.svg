@@ -614,8 +614,8 @@ rect.held, rect.combo.held {
 <g transform="translate(610, 283) rotate(-30.0)" class="key keypos-60">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#Alt">
-<text x="0" y="-4" class="key tap layer-activator">Alt</text>
+<a href="#Altern">
+<text x="0" y="-4" class="key tap layer-activator">Altern</text>
 </a></g>
 <g transform="translate(672, 259)" class="key keypos-61">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
@@ -630,8 +630,8 @@ rect.held, rect.combo.held {
 <g transform="translate(784, 259)" class="key keypos-63">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#BT">
-<text x="0" y="-4" class="key tap layer-activator">BT</text>
+<a href="#Blueth">
+<text x="0" y="-4" class="key tap layer-activator">Blueth</text>
 </a></g>
 <g class="combo backspace combopos-0">
 <rect rx="6" ry="6" x="742" y="74" width="28" height="26" class="combo backspace"/>
@@ -639,8 +639,8 @@ rect.held, rect.combo.held {
 </g>
 </g>
 </g>
-<g transform="translate(40, 388)" class="layer-Alt">
-<text x="0" y="28" class="label" id="Alt">Alt:</text>
+<g transform="translate(40, 388)" class="layer-Altern">
+<text x="0" y="28" class="label" id="Altern">Altern:</text>
 <g transform="translate(0, 56)">
 <g transform="translate(28, 56)" class="key keypos-0">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
@@ -1340,8 +1340,8 @@ rect.held, rect.combo.held {
 </g>
 </g>
 </g>
-<g transform="translate(40, 1165)" class="layer-BT">
-<text x="0" y="28" class="label" id="BT">BT:</text>
+<g transform="translate(40, 1165)" class="layer-Blueth">
+<text x="0" y="28" class="label" id="Blueth">Blueth:</text>
 <g transform="translate(0, 56)">
 <g transform="translate(28, 56)" class="key trans keypos-0">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans side"/>

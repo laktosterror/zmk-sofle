@@ -61,11 +61,11 @@ layers:
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
-  - Alt
+  - Altern
   - $$mdi:keyboard-space$$
   - $$mdi:backspace-reverse-outline$$
-  - BT
-  Alt:
+  - Blueth
+  Altern:
   - {t: '`', s: '~'}
   - '1'
   - AltGr+2
@@ -195,7 +195,7 @@ layers:
   - PLAY PAUSE
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  BT:
+  Blueth:
   - {t: '$$mdi:transfer$$', type: trans}
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
