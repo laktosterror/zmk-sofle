@@ -82,7 +82,7 @@
             >;
 
             sensor-bindings = <&scroll_encoder>;
-            label = "Alt";
+            label = "Altern";
         };
 
         layer_2 {
@@ -107,7 +107,7 @@
             >;
 
             sensor-bindings = <&scroll_encoder>;
-            label = "BT";
+            label = "Blueth";
         };
     };
 };
