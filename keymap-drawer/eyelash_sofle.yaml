@@ -56,13 +56,13 @@ layers:
   - $$mdi:volume-off$$
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:apple-keyboard-option$$
+  - $$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-command$$
-  - $$mdi:apple-keyboard-control$$
   - Func
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - Altern
-  - $$mdi:apple-keyboard-shift$$
   - $$mdi:keyboard-space$$
+  - $$mdi:apple-keyboard-shift$$
   - $$mdi:backspace-reverse-outline$$
   - Blueth
   Altern:
