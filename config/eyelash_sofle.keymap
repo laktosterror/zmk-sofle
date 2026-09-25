@@ -56,6 +56,8 @@
         enter {
             bindings = <&kp ENTER>;
             key-positions = <34 35 36>;
+        };
+
         softoff {
             bindings = <&soft_off>;
             key-positions = <14 28 40>;
@@ -68,6 +70,8 @@
             #binding-cells = <0>;
             bindings = <&kp LS(N0) &kp LS(NON_US_BSLH)>;
             label = "LAMBDA";
+        };
+
         SHIFT_MCLK: SHIFT_MCLK {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
