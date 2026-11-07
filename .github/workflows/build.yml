@@ -5,7 +5,10 @@ on:
     paths-ignore:
       - "keymap-drawer/**"
 
+# Read-only token: the build only checks out code and uploads artifacts.
+permissions:
+  contents: read
+
 jobs:
   build:
-    uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@v0.3.0
-
+    uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@edf5c0814fd3ea202e43aad2d68fd32e882a518c # v0.3.0

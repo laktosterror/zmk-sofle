@@ -1,0 +1,8 @@
+# Proposes PRs when the pinned workflow commits above have newer versions.
+# Note: Dependabot does not understand west.yml; bump those pins by hand.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
